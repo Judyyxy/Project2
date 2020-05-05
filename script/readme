@@ -1,0 +1,3 @@
+* Please input kaggle and aws credentials in env.txt file. The credentials will be exported as environment variables
+* Pass kaggle dataset name and s3 bucket as argument to main.py script. e.g python main.py --kaggle_dataname "brkurzawa/us-breweries" --s3_bucket big-data-spark1
+* runScript.sh script combines both docker build and docker run cmds. The arguments can be set here in docker run cmd
