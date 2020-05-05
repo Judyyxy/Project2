@@ -15,4 +15,4 @@ The large dataset is stored in S3. AWS EMR provides cluster and PySpark in Jupyt
 
 ## S3 management page for the yelp files
 
-![](S3Bucket.PNG)}
+![](S3Bucket.PNG)
